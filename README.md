@@ -14,9 +14,9 @@ https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116
 
 https://user-images.githubusercontent.com/85088116/235892827-d95cb651-3f1a-440c-8166-dab0c1fe5c21.mp4
 ```
-OSTrack-org
+Video taken by oneself
 ```
-https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/78cf1f6b-8ee5-4e94-8a5f-1ea798e95149
+https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/1325f233-7822-413d-beb3-5b2f69a5f88c
 
 ## SiamRPN display
 ```
