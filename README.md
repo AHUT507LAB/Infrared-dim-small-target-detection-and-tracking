@@ -18,6 +18,8 @@ Video taken by oneself
 ```
 https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/1325f233-7822-413d-beb3-5b2f69a5f88c
 
+https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/4ea98574-f58a-46b2-ad09-d41a05d815c7
+
 ## SiamRPN display
 ```
 Public dataset
