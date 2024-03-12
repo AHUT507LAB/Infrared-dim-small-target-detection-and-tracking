@@ -52,3 +52,6 @@ Real-time
 ```
 https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/c694ba87-50e6-4c2b-92f8-d6bf7aa68605
 
+https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/d908a0e8-2a1f-490a-877b-8364595abd75
+
+
