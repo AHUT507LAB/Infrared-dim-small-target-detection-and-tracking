@@ -54,4 +54,4 @@ https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/a
 
 https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/d908a0e8-2a1f-490a-877b-8364595abd75
 
-
+https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/d283b90f-0eb7-4d99-a556-ec2aee7a58c0
