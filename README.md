@@ -2,7 +2,7 @@
 
 ## display
 ```
-ours
+OSTrack
 ```
 https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/f353aaaa-a38c-4fa1-ab66-f66cb332082e
 
@@ -14,6 +14,6 @@ https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116
 
 https://user-images.githubusercontent.com/85088116/235892827-d95cb651-3f1a-440c-8166-dab0c1fe5c21.mp4
 ```
-OSTrack
+OSTrack-org
 ```
 https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking/assets/85088116/78cf1f6b-8ee5-4e94-8a5f-1ea798e95149
