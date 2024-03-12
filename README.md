@@ -20,6 +20,8 @@ https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/a
 
 https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/4ea98574-f58a-46b2-ad09-d41a05d815c7
 
+https://github.com/AHUT507LAB/Infrared-dim-small-target-detection-and-tracking/assets/85088116/3ec97723-dafb-4d65-b990-bd3dd93734b8
+
 ## SiamRPN display
 ```
 Public dataset
